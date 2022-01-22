@@ -1,5 +1,5 @@
 {
-	"ip":"BrotatosChip.aternos.me:64030",
+	"ip":"BrotatosChip.aternos.me",
 	"port": "64030",
 	"name": "BrotatosChipBot",
 	"auto-night-skip":"true"
